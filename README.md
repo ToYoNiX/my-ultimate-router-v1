@@ -173,4 +173,7 @@ While the setup works well, I encountered a few issues:
 - **DNS Problems:** At times, the router became unresponsive due to a DNS resolver issue. Thanks to [Ahmed Saed](https://github.com/Ahmedsaed), I learned how to troubleshoot it. After testing, [Omar Asaad](https://github.com/Hero-Xero) found that **Cloudflare’s `1.0.0.1` DNS** provided the best stability.
 - **WOL Limitations:** If there’s a power outage, the PC must be turned on manually before WOL works again. This isn’t an issue when I’m home, but it’s inconvenient when I’m away. A **UPS (Uninterruptible Power Supply)** would solve this, so it’s my next planned upgrade.
 
+# Final Result
+![Final Result](/home/assem/Documents/Github/my-ultimate-router-v1/final-result.mp4)
+
 That’s it! I hope this helps someone trying to set up a similar system. 🚀
