@@ -174,7 +174,7 @@ While the setup works well, I encountered a few issues:
 - **WOL Limitations:** If there’s a power outage, the PC must be turned on manually before WOL works again. This isn’t an issue when I’m home, but it’s inconvenient when I’m away. A **UPS (Uninterruptible Power Supply)** would solve this, so it’s my next planned upgrade.
 
 # Final Result
-[Watch Video](https://raw.githubusercontent.com/ToYoNiX/my-ultimate-router-v1/main/final-result.mp4)
+![Video Preview](final-result.gif)
 
 
 That’s it! I hope this helps someone trying to set up a similar system. 🚀
